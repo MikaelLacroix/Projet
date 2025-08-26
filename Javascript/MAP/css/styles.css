@@ -1,0 +1,19 @@
+
+  body {
+    font: 16px/26px 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #454545;
+    margin: 0px;
+    padding: 0px;
+    background-color: #010101;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  header {
+    text-align: center;
+    font-family: 'Montserrat', serif;
+    font-size: 21px;
+    text-shadow: 1px 1px #ccc;
+  }
+  
